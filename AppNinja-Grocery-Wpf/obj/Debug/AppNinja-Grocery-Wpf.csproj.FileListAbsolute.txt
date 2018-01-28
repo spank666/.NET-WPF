@@ -1,0 +1,15 @@
+c:\users\spank-developer\documents\visual studio 2017\Projects\AppNinja-Grocery-Wpf\AppNinja-Grocery-Wpf\bin\Debug\AppNinja-Grocery-Wpf.exe.config
+c:\users\spank-developer\documents\visual studio 2017\Projects\AppNinja-Grocery-Wpf\AppNinja-Grocery-Wpf\bin\Debug\AppNinja-Grocery-Wpf.exe
+c:\users\spank-developer\documents\visual studio 2017\Projects\AppNinja-Grocery-Wpf\AppNinja-Grocery-Wpf\bin\Debug\AppNinja-Grocery-Wpf.pdb
+c:\users\spank-developer\documents\visual studio 2017\Projects\AppNinja-Grocery-Wpf\AppNinja-Grocery-Wpf\obj\Debug\App.g.cs
+c:\users\spank-developer\documents\visual studio 2017\Projects\AppNinja-Grocery-Wpf\AppNinja-Grocery-Wpf\obj\Debug\AppNinja-Grocery-Wpf_MarkupCompile.cache
+c:\users\spank-developer\documents\visual studio 2017\Projects\AppNinja-Grocery-Wpf\AppNinja-Grocery-Wpf\obj\Debug\AppNinja-Grocery-Wpf_MarkupCompile.lref
+c:\users\spank-developer\documents\visual studio 2017\Projects\AppNinja-Grocery-Wpf\AppNinja-Grocery-Wpf\obj\Debug\AppNinja-Grocery-Wpf.g.resources
+c:\users\spank-developer\documents\visual studio 2017\Projects\AppNinja-Grocery-Wpf\AppNinja-Grocery-Wpf\obj\Debug\AppNinja_Grocery_Wpf.Properties.Resources.resources
+c:\users\spank-developer\documents\visual studio 2017\Projects\AppNinja-Grocery-Wpf\AppNinja-Grocery-Wpf\obj\Debug\AppNinja-Grocery-Wpf.csproj.GenerateResource.Cache
+c:\users\spank-developer\documents\visual studio 2017\Projects\AppNinja-Grocery-Wpf\AppNinja-Grocery-Wpf\obj\Debug\AppNinja-Grocery-Wpf.exe
+c:\users\spank-developer\documents\visual studio 2017\Projects\AppNinja-Grocery-Wpf\AppNinja-Grocery-Wpf\obj\Debug\AppNinja-Grocery-Wpf.pdb
+C:\Users\Spank-Developer\documents\visual studio 2017\Projects\AppNinja-Grocery-Wpf\AppNinja-Grocery-Wpf\obj\Debug\App.baml
+C:\Users\Spank-Developer\documents\visual studio 2017\Projects\AppNinja-Grocery-Wpf\AppNinja-Grocery-Wpf\obj\Debug\View\Login\Login.g.cs
+C:\Users\Spank-Developer\documents\visual studio 2017\Projects\AppNinja-Grocery-Wpf\AppNinja-Grocery-Wpf\obj\Debug\View\Login\Login.baml
+C:\Users\Spank-Developer\documents\visual studio 2017\Projects\AppNinja-Grocery-Wpf\AppNinja-Grocery-Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
